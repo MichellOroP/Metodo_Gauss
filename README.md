@@ -46,7 +46,7 @@ La salida obtenida en consola es:
 Soluciones del sistema:
 x1 = 3.0
 x2 = -2.5
-x3 = 7.0
+x3 = 7.000000000000002
 ```
 
 ## Descripción
